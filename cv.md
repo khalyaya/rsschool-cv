@@ -57,8 +57,8 @@ Eager to learn and gain new skills in front-end development.
 * Managed departmental interactions with marketing partners and provided team leadership.     
 
 
-#####**Quality Control Specialist**
-######**Oct 2019 - Mar 2020**
+##### Quality Control Specialist
+###### **Oct 2019 - Mar 2020**
 * Monitored the quality of responses from sales and support departments.
 * Conducted UI testing of company platform.
 * Monitored the stability of provided user services.
@@ -69,9 +69,9 @@ Eager to learn and gain new skills in front-end development.
 * Assumed team leadership responsibilities.
 
 ## Education
-The Rolling Scopes School (July,2024 - prs)
+The Rolling Scopes School (July,2024 - present)
 
 ## Languages
 * Russian: native
 * English: B2
-* Korean - A1
+* Korean: A1
