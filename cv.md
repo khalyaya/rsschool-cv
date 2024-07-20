@@ -1,4 +1,5 @@
 # Lizaveta Khaletkaya
+![cv-photo](./images/IMG_7355.JPG.jpg)
 
 ## Contacts
 * email: khaletskayli@gmail.com
@@ -46,7 +47,7 @@ Eager to learn and gain new skills in front-end development.
  ```
 
 ## Work Experience
- #### Karuna (3 yrs 9 mos)
+ #### Karuna
  ##### Senior Monitoring Specialist
  ###### **Mar 2020 - Jul 2022**
 * Utilized spy services to monitor competitor advertising.
