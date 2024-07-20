@@ -45,3 +45,33 @@ Eager to learn and gain new skills in front-end development.
       </nav>
  ```
 
+## Work Experience
+ #### Karuna (3 yrs 9 mos)
+ ##### Senior Monitoring Specialist
+ ###### **Mar 2020 - Jul 2022**
+* Utilized spy services to monitor competitor advertising.
+* Tracked market events and product mentions online.
+* Researched and tracked changes in Advertising Policies of social media platforms (Instagram, Facebook, Twitter, Tik Tok, Youtube), devising rule sets based on research.
+* Ensured compliance of new content across projects with company policies prior to launch.
+* Reviewed influencer integrations, prepared monthly reports for each region.
+* Managed departmental interactions with marketing partners and provided team leadership.     
+
+
+#####**Quality Control Specialist**
+######**Oct 2019 - Mar 2020**
+* Monitored the quality of responses from sales and support departments.
+* Conducted UI testing of company platform.
+* Monitored the stability of provided user services.
+* Compiled reports on identified errors.
+* Collaborated with Upwork contractors from Asia, Africa, and Latin America.
+* Analyzed markets and countries, preparing monthly reports to optimize services.
+* Provided training to new departmental members.
+* Assumed team leadership responsibilities.
+
+## Education
+The Rolling Scopes School (July,2024 - prs)
+
+## Languages
+* Russian: native
+* English: B2
+* Korean - A1
