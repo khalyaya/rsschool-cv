@@ -1,5 +1,5 @@
 # Lizaveta Khaletkaya
-![cv-photo](./images/IMG_7355.JPG.jpg)
+![cv-photo](./images/imresizer-1721477958805.jpg)
 
 ## Contacts
 * email: khaletskayli@gmail.com
