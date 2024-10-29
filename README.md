@@ -1,1 +1,1 @@
-https://khalyaya.github.io/rsschool-cv/cv
+https://khalyaya.github.io/rsschool-cv/cv https://khalyaya.github.io/rsschool-cv/
